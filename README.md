@@ -115,6 +115,7 @@ This project is currently in early development. Contributions, suggestions, and 
 
 ## 📞 Contact
 01791455303
+amanullah.shah@northsouth.edu
 [Add your contact information here]
 
 ---
